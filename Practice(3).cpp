@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("ÎÒµÄÉí¸ß£º%fÀåÃ×", 168.5);
+	printf("æˆ‘çš„èº«é«˜ï¼š%få˜ç±³", 168.5);
 	return 0;
+
 }
